@@ -1,0 +1,824 @@
+which do not contain the letter 'e'.
+that contain only the letters 'agde'.
+using words  ending in 'er'.
+which contain only lowercase letters.
+that contain the word 'dance'
+with words that contain 3 vowels.
+which have 'bar'
+using a word that ends in 'spoon'
+that include three capital letters
+using words that begin with 'z'.
+that have at least 5 numbers.
+that ends with letter 'f'
+using a word that contains the letters 'der'
+using only three words
+starting with 'uu' followed by words starting with 'z'.
+that have 2 words using 4 letters
+that have words ending in 'ing'
+which contain the word 'black' and the letter 'z'.
+that contain the number '254' at least twice.
+containing the word 'art'
+with a word ending in 'aought' that contain only one word
+which contain only an uppercase letter
+that contain at least one numeric in it.
+that end in an 'o'
+that have all the letters 'a' , 'b' and 'c'
+having words ending with 'ne'.
+that contain 'World War II' and contain 'casualties'.
+that contain the numbers '9', and '10'
+with the word 'Triple' followed by words that start with 'X'
+using 'su' after 'son' or 'soon'.
+that utilize words starting with 'do'.
+using 'q' before 'r'
+containing a word using the letters 'tt'.
+using more than 1 character
+that contain words with 'ru'.
+containing a word using 'ause' 
+containing instances of 'JFK' found after 'ABC'
+that contain at least three words and at least one number.
+that contain numbers
+using the word 'going' followed by 'd'.
+that have 'sandwich' but not the word 'ham'
+containing words starting with 't'.
+that contain words ending in 'g'
+that contain words ending with vowels.
+that use words starting with 's'.
+using 2 words or more
+using the word 'piggy' and 'his mother'.
+that have 5 characters and no vowels.
+that contain at least one vowel and at least two numbers.
+using at least 3 characters
+that contain the phrase 'city of'.
+that contain between two to seven words.
+that use words starting with 'ga'.
+any words beginning with the letter 'k'.
+containing any number with an '8' in it.
+which contain only the number '3'.
+that contain words starting with 'pa'.
+that contain only three words.
+that mention 'Dylan' in the same line as 'Lynda'.
+containing 'foo' or 'nu' before 'dist' or 'dust' 
+where the number '0' appears
+that feature 'email' followed by the word 'spam'.
+that have within them words ending in 'ch'.
+using the word 'clue'
+that contain 'news' before 'paper' or 'show'.
+that do not contain the word 'foo'
+using 'min' before 'imal'
+that include the string 'rst'
+that contain at least two words starting with 'h' in them.
+using the word 'An' at least once.
+that begin with a number
+that have words ending with 'ti'.
+that do not contain the character 'x'
+using words containing 'ope'.
+that use words starting with 'bi'.
+using 'oon' 
+using words beginning with the letter 'g'
+containing any mention of the word 'code'.
+that contain 5 words
+that have a word beginning with th and a number that begins in '7'
+that have all of its letters capitalized.
+using 'mno' after 'pqr'
+where there are two consecutive capital letters
+containing a letter
+that contain the word 'orange'.
+using a word of 5 letters or less.
+that have words with 'la'.
+that using the symbol '+' or '-'.
+that contain the word 'Hindi'.
+using words containing 'e' before 'i'.
+that have at least one capital letter.
+that have at least 3, but not more that 6 words.
+that contain 'mix' or 'shake'.
+that have 1 word in them
+where 'PQR' is between a number and 'LMNO'
+that have words with 7 letters.
+that have one number
+containing 'a' before 'b'
+containing 'h', or 'i'
+that contain words starting with 'de'.
+that include words starting with 'q'.
+that mention both 'butterflies' and 'fireflies'.
+that contain 'ject' or 'pel'
+that carry the word 'Jim' located in between 'Stacks' and 'Slim'.
+using at least 5 'd'
+that contain at least 2 digits.
+using words with 'ca'.
+that have only 3 words
+that have 2 or more numbers.
+that have a 2 letter sequence
+that include words starting with 'fe'.
+not containing 4 or more characters
+that end containing the letter 'z'.
+which have three words.
+with 'sec' before 'mun'.
+that have two or more words ending in 'a'.
+that have 6 words.
+that do not contain any number
+containing 'k', or 'l'
+that contain words ending with 'mae'.
+that contain words starting with 'h'.
+where the  word 'Homer' precedes the word 'Odyssey'
+that do not contain the letter 'a'
+using the word 'hero'.
+that have words starting with 'pi'.
+that have words starting with 'kai'.
+Find that mention dogs or cats but not any with mice
+that use 'a' or 'b' before words ending with 'er'.
+starting with 'abc'
+using three character words begining with the letters 'CE'.
+that contain 3 words and have at least 2 numbers.
+using 'abc' after 'def'
+which feature the word 'hairy'.
+containing the word 'crack'.
+that have at least three 'j'.
+that have 'turn'
+using 'ghi' after 'jkl'
+which contain a mix of uppercase letters and lowercase letters
+where no word is more than 5 characters
+using 'd' in the middle of a word.
+using 5 'd'
+with capital letters
+containing 'e', or 'f'
+using a 5 letter sequence
+which contain a word starting with 'ch'
+that contain words starting with 'po'.
+utilizing the word 'law'.
+that have only one b.
+that have the number '44'.
+that contain the letter 'A' followed by a vowel.
+that contain words with 'oo'.
+which have at least 7 numbers.
+which end with 'you' 
+that contain words ending with 'ol'.
+that contain a digit.
+using a word having the string 'der'
+that are 20 characters or less
+containing a word
+that begin with the word 'once'.
+that contain words starting with 'ac'.
+that have 4 words or less where at least 1 of those words contains the letter sequence 'uin'.
+that contain words ending in 'n'
+that have 'eye'
+that contain three letter words in them.
+that contain five letter words.
+which do not have 'life'.
+which start with a number.
+that start with a 'z' and end with an 'a'.
+that have instances of a number and a vowel
+which have both uppercase letters and lowercase letters.
+containing 5 letter words.
+that match 'billy' or 'bob'.
+which contain five or more 'y'
+that include words starting with 'ne'.
+containing words that start with 'x'
+containing 'ge' or 'an' before 'ger' or 'tra'
+that end with 'gh'
+which contain 'sorry' 
+with 'tch' but not 'wi'.
+that start with 'far' 
+using words that end in 'y' or 'i'.
+that contain the number '2005' and 'May' and begin with 'Mary'.
+with an '8' that comes after a '5'.
+utilizing words starting with 'w'.
+containing words that start with 'th'
+that contain 'ig' or 'physics' before 'nobel'.
+containing 'st' and containing 'gy' too
+that contain the text 'NOW'
+that contain the text 'hello'
+that contain five words that begin with 'P'.
+that have words ending with 'ge'.
+Look for any line with the '@' symbol.
+using an instance of 'itch'
+containing three vowels
+containing 'ers' and containing 'oxy' too
+that have more than 6 numbers.
+with the word 'Goal' in them.
+beginning with 'Therefore'
+using 2 or more words containing the letters 'ing'. 
+that have the word 'love' preceeding the word 'you'.
+which contain a 3 letter string starting with a
+starting with a 'T'.
+that contain the letters 'ba'.
+that are composed of 4 or more words.
+using the word 'George' and the number '62'.
+utilizing words starting with 'b'.
+that use the word 'boom' followed by words starting with 'ka'
+that end in a number
+that use words with 'ce'.
+which have at least 1 numeric character.
+that contain at least one word starting with 'q'.
+that have 'twist'
+containing words that start with and end with 'xyz'
+containing 'x' and containing 'y' too
+that contain words ending with 'la'.
+that have 3 numbers and contain the word 'Columbia'.
+that contain at least one number.
+that contain words starting with 'ke'.
+that contain a word using at most 6 letters
+using 'ent' or 'ong'
+containing words using a vowel.
+with words ending in 'y'.
+that contain 2 numbers that contain '19'.
+that contain at least 2 capital letters.
+containing a 6 letter sequence
+where the letter c appears more than one time
+which contain only vowels.
+that contain words ending in 'i'.
+containing 'ast'
+using 'the'
+containing 'on' and also containing 'off'
+that mention 'trolls'.
+that contain at least one vowel and at least two numbers
+that begin with the word 'the'
+that contain words with 'ri'.
+which contain 3 or more vowels.
+using 3 instances of 'sw'
+that contain instances of 'ape', but only if its one of the first three words.
+which contain a word starting with the letter 'a' and a word starting with the letter 'z'.
+that show 'May' and 'June'.
+that use words starting with 'no'.
+that contain the text 'this is it'.
+that start with 'the'.
+that show the letter 'a' and number '5'.
+using 'din' after 'e' or 'ky'.
+that contain both a 'B' and a 'b'.
+that have a '7' in them
+using at least 6 characters
+that contain the word 'zoo'.
+using the vowel combination 'ei'.
+containing at least 2 words
+containing the word 'run' or the word 'hat'
+containing at least 2 characters but not 4 characters or more
+with no vowels
+using words that contain the letter 'q'.
+containing the word 'shoe' and containing the word 'lace' 
+using 2 or more words comprised of 5 letters
+starting with 're'
+that contain 'in' 
+using 'ick' 
+that contain words starting with 'ki'.
+that end in a digit
+that have two vowels
+having words starting with 'di'.
+that contain five vowels
+containing 'tt' and containing 'bb' too
+that contain the word 'hello' within 5 characters of the word 'world'.
+that end with the number '100'.
+which begin with the word 'how'
+using at least three numerical characters
+that do not have the letter 'a'
+that contain words ending in 'ch'
+that contain the word 'trust'.
+which contain the letter 'x' and the letter 'y'
+that have a word of 3 letters
+that end with 'boby'
+that have the word 'couch' included
+that contain at least five words.
+which have a th after a 'ch'.
+which contain the letter 'z' twice.
+that end with '2' and contain words that begin with 'Sel'
+containing either a 'w' or 's' character.
+which contain 2 or more 'q'.
+that contain words starting with 'an'.
+having words ending with 'fa'.
+ending with 'vem'
+containing words starting with the letter 'x'.
+with 7 or more words
+that contain 'jellyfish' and mention 'breeding'.
+that contain 5 or more letters
+that contain words ending with 'le'.
+that contain words and 4 numbers.
+that contain words ending with 'd'.
+using a word containing the letter 'l'.
+containing the word 'inoperative'.
+with all words beginning with 'a'.
+that end with 'you'.
+that contain 4 letter words ending in 's'
+which contain the letter 'h' preceded by a letter.
+which have the word 'egg'
+that contain 'is' or 'it'
+using 'ss' between 'a' and 'le'
+that have at least two words that start with 's'.
+comprised of 5 or more words containing 5 or fewer letters
+that contain a number ending with '0'
+that end with the word 'free'.
+which contain 'ead' or 'pro'
+that contain the word 'and'
+using 4 letter words
+that contain words starting with 'gi'.
+that utilize words starting with 'pu'.
+that end in 'e'
+end in an 'a'
+that have at least three words beginning with a vowel.
+which contain a 3 letter string
+with 'car' between 'try' and 'say'.
+that contain the word 'the'
+that contain the number '10'.
+that contain 6 letter words beginning with the letter 'y'.
+that contain a word starting with a vowel.
+with 'helper' where the word 'little' comes before 'helper'.
+containing an instance of the name 'Beaker'.
+which contain 'qu' at the start
+that show 'Mr' and 'Mrs' but not 'Ms' or 'Miss'.
+that include 'Canada' and 'Mexico' but not 'Cuba'.
+which contain a word ending in 'ing'.
+that contain 'tumeric' and 'saffron'
+that start with 'apartheid'.
+containing words that start with 'h' and end with 'e'.
+containing both 'ac' and 'dc'
+composed with a word
+which do not contain a vowel.
+using words beginning with the letter 'x'.
+containing words that end with 'L'
+that contain words beginning in 'p'
+that contain the word 'sea' followed by at least one number.
+that contain a word containing 5 or more letters.
+that contain at least three five letter words
+that contain 'ugly' before 'betty' or 'thomas'.
+that contain words starting with 'fa'.
+that contain 'fu' before 'ba' or 'bar'.
+using more than 4 characters
+that contain any three vowels
+having words ending with 'ta'.
+which contain 'I am mad'.
+that use words that are only four letters long.
+that have five words that all end with the letter 'G'.
+containing words that start with 'i'.
+containing 'mean' or 'nic' before 'est' or 'test' 
+that use words with 'ca'.
+that have ten words.
+containing 'tain' after 're' or 'per'.
+that end in 'o'
+that contain 'x' and 'y' but not 'z'.
+that end in 'e'
+having the letters 'ea'.
+that begin with 'The' or 'For'.
+that contain the letter 'V' and the number '33'.
+starting with 'X' followed by a word with 'oa'.
+that end with the letter 'o'
+using any instance of 'd' or 'e' followed by 's' or 'r'
+that contain a word and five numbers.
+where 'TRY' is separated from 'LOL' with a comma
+that contin words ending in 'e'.
+containing the word 'blog'
+using a word
+which have 'oo', but no instances of 'o' between the letters 'd' and 'a'
+having words ending with 'en'.
+that contain three letter words.
+using a 3 letter sequence
+which contain 'upper' or 'lower' 
+that have the word 'sandwich'
+ending in 'ia'
+that begin with the phrase 'once upon a time'
+that utilize the letters 'as'.
+that contain the word 'unifax' but not the word 'colorado'.
+using the word 'Westbury' next to a number.
+with 'helper' and 'little'
+that contain digits.
+that contain three 'she'.
+that contain exactly two words.
+using words that begin with 'q' but do not have a 'u'.
+that contain words starting with 'du'.
+beginning with words that have a vowel as the first letter.
+that begin with a numeral
+which contain the word 'mobile' but do not contain the word 'phone'
+containing words that begin with 'G' and end with 'y'
+containing at least 3 words
+that have 'JFK' but not 'WAS'
+that contain the phrase 'Booyah'.
+that contain both the word 'bar' and the word 'stress'
+that contain words that have the letter 'e' occuring after the letter 'c'.
+that contain 3 numbers and one number contains 1.
+which begin with 'omega'
+using words ending with 'mo'.
+that contain the word 'Boby'.
+containing usage of the word 'fried'.
+with words that contain 3 letters
+that use words ending with 'ot'.
+using more than 3 characters
+that contain the word 'null'
+using a word which contains at least 5 letters.
+that use words of at least 9 letters.
+that match the words 'and in this life'.
+that contain at least 4 words.
+using at least 3 'b'
+that contain an 'x'
+that contain the symbol '-'.
+3 letter starting with 'x'
+containing 'pol' or 'mi' before 'ist' or 'lk' 
+that have at least 2 words of 3 or more letters
+that contain '-' between words 'a' and 'lot'.
+with words that end in 'n'.
+using 'lay' or 'lie'
+that show 's' in the beginning of the word  and 't' at the end of the word.
+that have 'de' before 'st' and 're' after 'col'.
+which contain 5 words starting with 'f'
+which mention 'puppy'.
+that contain DEF' with a period immediately after it.'
+using the word 'intellectual'
+containing 'ant'
+which have the word 'number' and a number
+using words ending with 'on'.
+that end with 'bar' and include the phrase 'San Jose'.
+that use words starting with 'fu'.
+beginning with 'begin'
+that contain words ending in 'e'.
+that start with a vowel and ends in an 'e'.
+starting with the word 'the'.
+that contain 1 to 5 numbers and 1 letter.
+that end with 'and'
+that utilize 'pan' following words starting with 'pe'.
+that have the word 'Facebook'
+that have words with 're'.
+that have 3 or more words containing the letters 'ly'.
+with instances of 'ABC' between 'XYX' and a comma
+that have a word containing 'a' or 'b'
+using the word 'of' or the word 'in' 
+containing two or more words containing 'y'.
+that contain at least one 'z'
+that contain a word using the letters 'ire'
+that have 'ser' after 'lin' or 'ku'.
+that have three words comprised of 4 characters each.
+ending in 'az'
+which begin with the letter 'z'.
+containing 'ku' after 'mar' or 'is'.
+that contain 2 numbers and 3 words and contain the letter 't'.
+that include one word using at least 2 letters
+that have a capital 'A', but not a lowercase 'a'.
+that start with the letter 'e' followed by the word 'jr'.
+containing 'b', or 'c'
+that contain 'Beaker' but do not contain 'Bunsen'.
+where '4' is between '3' and '5'
+that contain a word in all uppercase.
+which start with the word 'The'
+containing 3 or more vowels and 5 or more words
+that contain words starting with 'bo'.
+6 letter lines
+with 'ock' 
+using a capital letter followed by a number
+that start with 'ABC' and end with 'TRY'
+ending with 'cem'
+that contain a number.
+that have words ending with a 'g'
+that contain 2 repetitions of the word 'a'
+that utilize words starting with 'ko'.
+that show the text '1:15' and the word 'midnight'.
+that contain three or more digits
+using 'ness' or 'ed'
+that are only comprised of uppercase letters.
+using 'lugg' before 'age'
+with the word 'and' between 'zyx' and 'cba'
+containing the number 11 and the word 'eleven'.
+that are composed of the letters 'a', 'b', and 'd'.
+that mention 'Randy' and also contain 'fox'
+utilizing '!'
+that end with vowels.
+that have 'ace' after 'pl' or 'tr'.
+starting with 'tra'
+containing one instance of 'ca' followed by an 'r' or a 't'
+where there are exactly two words and 7 characters.
+that have 3 words and two numbers.
+using words starting with 'fi'.
+with 'buck'
+containing words which begin with 'c' and end with 'd'
+containg the number '9'.
+that utilize words starting with 'ni' followed by the word 'knight'
+which begin with 'y', has a 'z' in the middle and end in a number.
+containing 'tal' and containing 'tel' too
+that contain the 'staphyloccus aureus.'
+that use 'Jane' but not 'Janet' or '2'.
+that contain words starting with 'go'.
+that contain only 2 words, and, begin with the letter 'f'.
+containing only four words.
+which do not contain 'excellent'
+that end with 'hey' 
+that have no instances of 'old' but at least one instance of 'ion'.
+that utilize words starting with 'r'.
+using words that end with the letter 'n'
+that use numbers.
+having words starting with 'fo'.
+using words that have 'ire'
+that only have 3 words
+that contain words starting in 's'
+that contain text made up of more than 6 letters total.
+that contain the letter 'a' in the middle of a word.
+where the letter 'b' appears exactly 4 times
+that contain a word  starting with 'l'.
+that contain a word with five or more vowels.
+which do not begin with an uppercase letter.
+which start with 'n' and end with 'y'
+that contain at least two words beginging with 'y'.
+that have a word containing the string 'ude'
+having words with 'ro'.
+using 4 or more words
+using at least 4 'c'
+starting with 'cl'
+that contain 'number' written in words.
+that have at least 3 words.
+which have 3 words.
+utilizing the phrase 'this is it'.
+that contain words starting with 'ba'.
+using the vowel combination 'ou' and 'th'.
+which contain 'rh' but do not contain the letter 'y'.
+that have any instance of 'ight'.
+using the letter sequence 'ably' followed by a word ending in 'ed'.
+having words ending with 'lo'.
+that feature 'c' or 'd' before words that start with capital letters.
+using 'foo' between 'car' and 'cop'
+that list the word 'Bean'.
+which have at least one word which has six or more letters.
+containing vowels
+starting with 'sign'
+that utilize words starting with 'ab'.
+that contain numbers.
+containing 4 words.
+that have three numbers between 'abc' and 'def'.
+that use 'native' and 'tribes'.
+that does not contain any vowels.
+that have 5 or more words of 3 or fewer letters.
+that contain a '?' or an '!'.
+that begin with a number
+that contain at least 2 digits.
+that use a numerical number.
+that contain words using 'ie'
+that contain 'fast' and contain '2'
+where there is only one word.
+containing only a letter
+containing the word 'country'
+that have words containing 'ei'
+that contain words ending in 'os'
+that have words ending in 'ing'.
+that include both 'cake' and 'candles'.
+using 1 number and 2 letters
+using five letter words.
+containing 'sing' or 'sung'
+using 6 instances of 'fu'
+that have at least 6 characters
+that have six letter words ending in 'th'.
+containing the word 'pray' at the end.
+that contain 5 numbers and 2 words that contain 'ly'.
+that utilize only three words
+using 'Bill' or 'bill'
+that have no vowels.
+that have a number in them
+that contain 7 or more words
+using words starting with 'be'.
+that use words ending with 'at'.
+which mention 'Pat' with the word 'turkey'.
+that have a number, but only if it is followed by 'ABC'
+that contain two words that have two letters.
+that end in 'y' and begins in 'a'.
+that match to the text 'I went into'.
+which end with 'hula' 
+that begins with the word 'total'.
+using the word 'God'.
+that utilize words starting with 'bu'.
+that contain 'Freddie Mercury' and contain 'AIDS'.
+that are composed of 5 words or less where at least one word begins with the letter 'k'.
+that contain three words that start with the letter 'Y'.
+that contain a 3 letter word and a 2 letter word.
+that contain a word starting with 'a' and ending with 'a'
+that start with words containing 'w'.
+that use the number '33'.
+which start with 'alpha'
+that have only two words in them.
+that contain 4 or more 'b'
+containing words using the letters 'ers'.
+which have instances of 'tch'.
+using the string 'gue'
+that have 'aba' between 'bcb' and 'cbc'
+containing the country name 'New Zealand'.
+which contain both 'i' and 'e' but no instances of 'u'.
+that contain a number and contain a 3 letter word.
+which start with 'start'
+using 'ox' before 'en'
+containing 'l' before 'y'
+that begin with 'a' and end with 'z'
+containing 'lake' and containing the word 'house'
+using 5 or more words.
+that contain words with at least 3 vowels
+that have 'eak' after 'red'
+containing the word 'preordained'.
+that feature the word 'moot', and at least 3 words of 6 letters or more.
+using 2 instances of 'irl'
+that contain 4 or more capital letters
+that end with 'after' 
+that contain four letter words.
+that start with 'iffl' 
+that contain 'on' 
+that begin with a number and end with 'street' or 'avenue'.
+with vowels
+using 'lives', 'lifes', or 'life'
+that contain the text 'then I said'.
+that contain the word 'movie' in them.
+that have less than 6 words but more than 3 words.
+using at least 2 instances of 'ly'
+containing words that start with 'fa'
+containing 'GHF', but not 'JFK'
+which have words beginning with 'H'.
+where there is at least one word in which 'e' follows 'i'
+having words ending with 'te'.
+that contain words that end in 'y' that do not begin with 'w'
+that contain 5 or more words.
+that contain words ending in 'az'
+that contain any numbers.
+utilizing the number '1'.
+that use the word 'white'
+which do not have numbers.
+that end with numbers.
+containing words that  have 5 letters in them.
+with instances of 'at'.
+which contain 'x' and 'y'.
+that do not use the word 'the'
+that contain either of 'y' or 'z'
+using three letter words.
+containing the word 'laughing'.
+containing the word 'trade'.
+where the word 'and' appears between the words 'sand' and 'tide'
+with numbers
+that contain a period after a number, but only if before 'ABC'.
+that contain at least 2 vowels in a word.
+that have two words containing 5 or more letters.
+using 'life' or 'lives'
+that have 4 characters
+that end in '!' but do not contain 'surprise'.
+with three numbers and the word 'kitten'.
+that have no letters.
+using 'art' or 'led'
+containing the word 'house'.
+that utilize the number '7'.
+using 3 instances of 'b'
+that include words with 'ra'.
+having words ending with 'oo'.
+that contain 3 words.
+using 7 'f'
+that contain the word 'bar'
+that contain 'wig' after 'er' or 'let'.
+that contain words using the letters 'ant'
+that ends with 'ABC' and contain two numbers.
+containing only one word
+that contain the text, 'New York'.
+using the word 'hurry' followed by the word 'up'.
+which do have numbers.
+that utilize the '$' symbol.
+where there are three characters between instances of 'ABC' and 'WEX'
+containing 'oo' and 'at'.
+that have more than 5 words ending with a 'c.'
+containing 'left' and also containing 'right'
+that contain 'dre' or 'ber'
+using a 3 letter sequence starting with 'n'
+that start with the letter 'c'
+with 'un' 
+that have 'oe'.
+that do not contain a number.
+containing 'ch' or 'dh'
+that contain 'tran' and the word 'nguyen'.
+containing '8' and containing a '3' as well.
+that have the letter 'X' at the end of a word.
+using at least 4 characters
+that have the word 'laugh', and at least 1 number.
+that contain the words 'the' and  'cold'.
+using 'pid' immediately after 'stu'
+that start with 'news' 
+in which there are words that begin with 'th'.
+that begin with the word 'Topo'.
+that contain words using aught in them.
+that use 'mo' followed by words starting with 'fo'
+utilizing the number '2'.
+that contain at least one vowel in each word.
+ending with 'fer'
+composed of at least 3 words of 4 or more letters
+that have at least five words that start with a vowel.
+that use the '@' symbol
+that have three words of five letters each.
+that begin with the word 'the'.
+of 6 characters that end with the letter 's'.
+that contain the word 'tron' but not 'bot'.
+that have 'efg' followed by the word 'car'
+that contain words starting with the letter 'g'
+that contain 5 or less words that have 4 or more letters where one of those letters is an 'a'.
+that contain words starting with 'da'.
+that have the numbers '12345' and '54321'.
+that have words that start with 'b'.
+that contain at least one word without any vowels.
+2 letter lines
+using words that end with a vowel.
+that have words ending with 'as'.
+using at least 5 characters
+where numbers exist only after a sequence of 'ABC' and 'XYZ'
+with 'bit' and not 'ch'.
+which have 'ing' and 'out' but not 'sh' or 'cl'.
+that start with 'A' or An
+using more than 5 characters
+which contain multiple quoted words.
+that contain the word 'Kelly' but do not contain the word 'Chris'.
+that only contain vowels.
+that have words ending in 'ing' or 'est'.
+with 'Quasi' as a stand alone word.
+containing the word 'tag'.
+containing both letters and numbers, but no capitals.
+using at least two numbers, 'aby', and 'oz'.
+that utilize the number '1'
+containing the letter 'z' but not the letter 'q'.
+containing 3 letter words starting with 'z' 
+using a word starting with a vowel and ending with 'y'
+that use words ending in 'g'
+with words matching the word 'fur'.
+that start with 'an'
+utilizing words with 'be'.
+in which all words start with the letter 'a'.
+that begin with a vowel and end with a vowel
+that contain words starting with 'na'.
+that mention 'fireflies' but not 'butterflies'.
+having the letter 'x'.
+which contain 'q' and 'u'
+using 'ly' or 'ny'
+that start with 'Transport One' and end in a number.
+that end with '...'
+containing 3 or more ';' 
+that contain 'I' in each word.
+that contain the phrase 'bedrock' or 'yabadabadoo'.
+that contain words starting with 'ge'.
+containing words that end with s.
+using words which have a vowel.
+using 'an' before 'imal'
+that contain 'if' before 'then' or 'else'.
+using words that begin with the letter 'G'.
+containing words ending with 'mie'.
+that start with 'gates' 
+composed of 3 or more characters
+that start with 'Al' but do not contain any numbers.
+using words ending in 'ness'
+with words that end with 'ca' before words that end with 'att'
+that contain words with 'ci'.
+containing words ending in 're' 
+that use only four words
+ending with the letter 'f'
+that end in 't'
+that start with the letter 't'.
+containing a 5 letter word beginning with 't'
+ending with 'uns'
+ending with 'end'
+that contain 'day' or 'to'
+that contain at least one word and the number '12'
+ending with 'wrench' that use the word 'monkey'.
+that contain at least one digit.
+starting and ending with 'a'
+that have 'car'
+of words whose last letters are 'ing'.
+beginning with the letter 's' and ending with the letter 'y'
+that use words ending with 'es'.
+that have 3 characters after the first vowel
+ending in 'z' preceded by a word that ends in 'nt'
+using the word 'day' followed by the letters 'abc'
+that contain words starting with 'gu'.
+that have the word 'pray'.
+that contain words between 'I' and 'you'
+that contain 3 words with at least 1 number in between the 1st and 3rd word.
+containing the text 'and so it came to pass'
+with 'helper' where the word 'little' does not appear before 'helper' in that line.
+that have a word ending with the letters 'ked'.
+that each begin with a vowel
+ending in 'fuzz'
+using 6 'e'
+that contain words starting with a vowel and ending with a vowel.
+that contain words using 'oo' in them.
+which contain 'out' 
+using words ending with 'tu'.
+having 'sh' after 'wi' and 'st' before 'ar'.
+that start with the word 'The'
+that contain more than five words.
+that do not contain the letter 'c'.
+starting with 'the'
+that contain words ending with a vowel.
+that contain at least one word which is 8 characters or longer
+that contain words ending with 'el'.
+containing words that end with 'P'
+using a word which has uppercase letters and has lowercase letters
+that contain words with 're'.
+that start with the letter 'a' and end with the letter 'c'
+that have three characters before the sequence 'SBC'
+using the letter pair 'no'
+containing 3 or more vowels.
+which contain a word using 2 or more letters
+that contain 'er' at the end of every word.
+using 4 instances of 'ug'
+that do not have 'the' in them
+containing at least one uppercase letter, and at least one lowercase letter
+that contain the phrase 'Wednesday' but not 'Sunday'.
+containing the word 'revolution'.
+ending with 'xyz'
+that contain a nine letter word.
+with fox that do not contain the word chicken.
+utilizing words ending with 'fe'.
+that do not have any word consisting of 4 letters.
+which start with 'oocl' 
+that do not contain numerical characters.
+using 'gophers' and containing the words 'grass' and 'seeds'.
+containing 'annou' and 'irth' that do not have a 'c' anywhere.
+using 'x' before 'z'
+beginning with the letter 'f'
+4 letter lines
+using numbers that show two or more '0'.

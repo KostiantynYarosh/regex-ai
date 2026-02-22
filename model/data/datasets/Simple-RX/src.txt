@@ -1,0 +1,273 @@
+find word hello
+find the word cat
+match the word dog
+find word with bb in it
+find words containing test
+match words starting with pre
+match words ending with ing
+find a number
+match any number
+match digits
+match one or more digits
+match a single digit
+find integers
+extract numbers from text
+match letters only
+match lowercase letters
+match uppercase letters
+match any letter
+match alphanumeric characters
+match whitespace
+match spaces
+find spaces and tabs
+match a dot
+match a literal dot
+match any character
+match anything
+match everything
+match start of line
+match end of line
+match beginning of string
+match end of string
+match whole line
+match empty line
+match blank line
+match word boundary
+find whole words only
+match exact word hello
+match exact word test
+find lines containing error
+find lines starting with #
+find lines ending with semicolon
+match repeated characters
+match 3 digits
+match exactly 5 letters
+match 2 to 4 numbers
+match one or more letters
+match zero or more digits
+match optional dash
+match a or b
+match yes or no
+match cat or dog
+match either hello or world
+match comma separated values
+match quoted string
+match single quoted string
+match double quoted string
+match text in parentheses
+match text in brackets
+match text in curly braces
+remove extra spaces
+match multiple spaces
+match non-digit characters
+match non-letter characters
+match non-whitespace
+match a file extension
+match .txt files
+match .py files
+match .js files
+match filename with extension
+match a path
+match a unix path
+match a windows path
+find capitalized words
+match camelCase
+match ALL CAPS words
+match first word of line
+match last word of line
+match lines with exactly 3 words
+match a positive number
+match a negative number
+match a decimal number
+match a float
+match a percentage
+match a dollar amount
+match a price
+match a currency value
+find duplicated words
+match repeated words
+remove duplicate whitespace
+match a hashtag
+match an at mention
+match HTML comment
+match CSS class name
+match a variable name
+match a function call
+find the string foo
+find the string bar
+match the text hello world
+match string error in line
+find word apple
+find word banana
+match the word house
+find word starting with un
+find word ending with tion
+find word ending with ment
+find word ending with ness
+find word ending with able
+find word starting with re
+find word starting with dis
+match words with at least 5 characters
+match words with exactly 3 characters
+match short words
+match long words
+match two digit number
+match three digit number
+match four digit number
+match number between 1 and 100
+match number between 0 and 255
+match number between 0 and 9999
+match a year
+match a four digit year
+match numbers with commas
+match a phone number with dashes
+match numbers in parentheses
+match a roman numeral
+match binary number
+match octal number
+match hexadecimal number
+match scientific notation
+match a fraction
+find email in text
+extract domain from email
+match gmail address
+match yahoo email
+match outlook email
+match any email
+match url starting with http
+match url starting with https
+match url with www
+match domain name
+match subdomain
+extract path from url
+match query parameters
+match anchor in url
+match ftp url
+match localhost url
+match url with port
+find links in text
+match image url
+match video url
+match pdf link
+match date in format dd/mm/yyyy
+match date in format mm-dd-yyyy
+match date in format yyyy.mm.dd
+match month name
+match day of week
+match time in 12 hour format
+match time in 24 hour format
+match am or pm
+match timezone
+match iso date
+match unix timestamp
+match a color name
+match rgb color
+match rgba color
+match hsl color
+match hex color with hash
+match 3 digit hex color
+match 6 digit hex color
+match css color value
+validate strong password
+validate password with special characters
+match password with minimum 8 characters
+match password with uppercase and lowercase
+match us zip code
+match uk postcode
+match canadian postal code
+match us state abbreviation
+match country code
+match international phone number
+match us social security number
+match credit card visa
+match credit card mastercard
+match any credit card number
+match isbn number
+match vin number
+match license plate
+match a sentence
+match a paragraph
+match a question
+match an exclamation
+match text ending with period
+match text ending with question mark
+match text ending with exclamation mark
+match text between quotes
+match text between parentheses
+match text between angle brackets
+match xml tag
+match html tag with attributes
+match self closing tag
+match opening tag
+match closing tag
+extract tag content
+match css selector
+match css property
+match css value
+match json key
+match json string value
+match json number
+match javascript comment
+match python comment
+match single line comment
+match multi line comment
+match c style comment
+match import statement
+match require statement
+match a class name
+match a method name
+match a constant
+match snake_case
+match kebab-case
+match PascalCase
+match SCREAMING_SNAKE_CASE
+match tab character
+match newline
+match carriage return
+match non-printable characters
+match unicode character
+match emoji
+match chinese characters
+match japanese characters
+match korean characters
+match arabic text
+match cyrillic text
+match accented characters
+match special characters
+match punctuation
+match mathematical symbols
+match currency symbols
+match copyright symbol
+match trademark symbol
+match a guid
+match a mac address with colons
+match a mac address with dashes
+match ipv4 address
+match ipv6 address
+match a port number
+match ip with port
+match cidr notation
+match a subnet mask
+match aws arn
+match docker image name
+match git commit hash
+match git branch name
+match npm package name
+match semantic version
+match a cron expression
+match a file path
+match a relative path
+match an absolute path
+match hidden files
+match backup files
+match log files
+match csv row
+match tsv row
+match pipe delimited values
+match key value pair
+match ini file section
+match environment variable
+match command line flag
+match a sql query
+match select statement
+match where clause

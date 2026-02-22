@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+  --color-bg: #eeeef0;
+  --color-card: rgba(250, 250, 252, 0.75);
+  --color-input: #e8e8ec;
+  --color-border: rgba(0, 0, 0, 0.07);
+  --color-border-focus: rgba(0, 0, 0, 0.18);
+  --color-text: #2d2d35;
+  --color-text-secondary: #6e6e7a;
+  --color-text-muted: #9a9aa6;
+  --color-accent: #FF7D66;
+  --color-accent-light: #ff9580;
+  --color-success: #22c55e;
+  --color-error: #ef4444;
+}
+
+/* base */
+body {
+  font-family: var(--font-sans);
+  background: var(--color-bg);
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* tooltip animation */
+.tooltip-trigger:hover .tooltip-content {
+  opacity: 1;
+}
+
+/* match highlight */
+.match-hl {
+  background: rgba(34, 197, 94, 0.15);
+  border: 1px solid rgba(34, 197, 94, 0.3);
+  border-radius: 3px;
+  padding: 1px 2px;
+  color: #15803d;
+}
+
+/* loading dots */
+@keyframes bounce-dot {
+
+  0%,
+  100% {
+    opacity: 0.3;
+    transform: translateY(0);
+  }
+
+  50% {
+    opacity: 1;
+    transform: translateY(-3px);
+  }
+}
+
+.dot {
+  animation: bounce-dot 1.2s infinite ease-in-out both;
+}
+
+.dot-1 {
+  animation-delay: 0s;
+}
+
+.dot-2 {
+  animation-delay: 0.2s;
+}
+
+.dot-3 {
+  animation-delay: 0.4s;
+}
+
+/* fade in */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  will-change: opacity, transform;
+}
+
+/* hide scrollbars */
+.no-scrollbar {
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+  /* Chrome, Safari and Opera */
+}

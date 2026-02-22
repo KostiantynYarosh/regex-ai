@@ -1,0 +1,497 @@
+youtube url
+youtube link
+youtube video url
+youtube channel url
+youtube playlist url
+http or https url
+url
+website url
+web address
+html tag
+html element
+slug
+url slug
+email address
+email
+valid email
+work email
+personal email
+ipv4 address
+ip address
+ipv6 address
+mac address
+uuid
+guid
+phone number
+us phone number
+uk phone number
+international phone number
+mobile number
+telephone number
+date YYYY-MM-DD
+date MM/DD/YYYY
+date DD/MM/YYYY
+date DD-MM-YYYY
+iso date
+time HH:MM
+time HH:MM:SS
+12 hour time
+24 hour time
+password
+strong password
+secure password
+username
+valid username
+md5 hash
+sha1 hash
+sha256 hash
+sha512 hash
+jwt token
+base64 string
+bitcoin address
+ethereum address
+hex color code
+hex color
+rgb color
+rgba color
+hsl color
+credit card number
+visa card number
+mastercard number
+amex card number
+zip code
+us zip code
+uk postcode
+postal code
+ssn
+social security number
+boolean
+true or false
+alphanumeric string
+semantic versioning
+semver
+twitter handle
+twitter username
+instagram handle
+github username
+github repo url
+github url
+linkedin url
+reddit url
+stackoverflow url
+spotify url
+tiktok username
+discord invite
+twitch channel
+telegram username
+medium url
+amazon url
+google search url
+facebook url
+pinterest url
+whatsapp link
+slack webhook url
+zoom meeting url
+domain name
+subdomain
+top level domain
+fqdn
+localhost url
+url with port
+ftp url
+ssh url
+git url
+docker image
+docker tag
+kubernetes pod name
+aws arn
+aws s3 url
+azure resource id
+gcp project id
+api key
+api token
+bearer token
+oauth token
+stripe key
+google api key
+aws access key
+aws secret key
+private key
+public key
+rsa key
+ssh key
+ssl certificate
+pgp key
+encryption key
+file path
+unix path
+windows path
+relative path
+absolute path
+file name
+file extension
+directory name
+hidden file
+backup file
+log file
+config file
+temp file
+csv file
+json file
+xml file
+yaml file
+markdown file
+python file
+javascript file
+typescript file
+java file
+c file
+cpp file
+go file
+rust file
+ruby file
+php file
+html file
+css file
+sql file
+shell script
+batch file
+powershell script
+dockerfile
+makefile
+gitignore
+license file
+readme file
+image file
+video file
+audio file
+font file
+archive file
+compressed file
+executable file
+database file
+spreadsheet file
+document file
+presentation file
+latitude
+longitude
+coordinates
+gps coordinates
+geolocation
+zip file name
+mime type
+content type
+media type
+http method
+http status code
+http header
+user agent string
+cookie
+session id
+csrf token
+cors header
+content security policy
+referer header
+authorization header
+accept header
+cache control header
+etag
+request id
+trace id
+correlation id
+transaction id
+order id
+invoice number
+product id
+sku
+barcode
+ean code
+upc code
+qr code content
+isbn
+issn
+doi
+vin number
+license plate
+passport number
+national id
+tax id
+ein
+vat number
+iban
+swift code
+routing number
+account number
+sort code
+currency code
+stock ticker
+isin code
+cusip
+cron expression
+cron schedule
+regex pattern
+glob pattern
+xpath expression
+css selector
+css class name
+css id selector
+css property name
+css value
+sass variable
+less variable
+json key
+json value
+json path
+yaml key
+toml key
+ini section
+xml element
+xml attribute
+xml namespace
+sql table name
+sql column name
+sql query
+select statement
+insert statement
+update statement
+delete statement
+create table
+alter table
+drop table
+join clause
+where clause
+order by clause
+group by clause
+having clause
+limit clause
+sql function
+stored procedure
+trigger name
+index name
+view name
+constraint name
+foreign key
+primary key
+variable name
+function name
+class name
+method name
+property name
+constant name
+enum value
+interface name
+module name
+package name
+namespace
+decorator name
+annotation
+type name
+generic type
+import statement
+require statement
+include statement
+using statement
+define macro
+pragma directive
+comment
+single line comment
+multi line comment
+doc comment
+todo comment
+fixme comment
+note comment
+deprecated tag
+version tag
+author tag
+parameter tag
+return tag
+throws tag
+see tag
+link tag
+since tag
+param type
+return type
+snake_case
+camelCase
+PascalCase
+kebab-case
+SCREAMING_SNAKE_CASE
+dot.notation
+bracket notation
+scientific notation
+roman numeral
+binary number
+octal number
+hexadecimal number
+fraction
+percentage
+ratio
+exponent
+infinity
+negative number
+positive number
+integer
+float
+double
+decimal number
+currency amount
+dollar amount
+euro amount
+pound amount
+yen amount
+price
+money
+temperature celsius
+temperature fahrenheit
+temperature kelvin
+weight kg
+weight lbs
+distance km
+distance miles
+speed mph
+speed kmh
+data size bytes
+data size megabytes
+data size gigabytes
+time duration
+time seconds
+time milliseconds
+angle degrees
+frequency hertz
+resolution
+aspect ratio
+color name
+named color
+web color
+pantone color
+rgb value
+hex value
+hsl value
+rgba value
+hsla value
+cmyk value
+opacity value
+font size
+font weight
+font family
+line height
+letter spacing
+border radius
+margin value
+padding value
+width value
+height value
+z-index
+box shadow
+text shadow
+gradient
+transform
+transition
+animation name
+keyframe
+breakpoint
+viewport width
+container query
+grid template
+flex value
+gap value
+sentence
+paragraph
+question
+exclamation
+title case text
+lowercase text
+uppercase text
+capitalized word
+abbreviated word
+acronym
+initials
+first name
+last name
+full name
+middle name
+nickname
+company name
+brand name
+product name
+street address
+city name
+state name
+country name
+continent name
+language code
+locale code
+charset
+encoding
+timezone name
+timezone offset
+utc offset
+day of week
+month name
+quarter
+fiscal year
+academic year
+season name
+holiday name
+hashtag
+mention
+emoji
+emoticon
+unicode character
+ascii art
+markdown heading
+markdown bold
+markdown italic
+markdown link
+markdown image
+markdown code block
+markdown list item
+markdown blockquote
+markdown table row
+markdown horizontal rule
+latex formula
+math expression
+chemical formula
+musical note
+morse code
+braille pattern
+html entity
+html comment
+xml comment
+cdata section
+processing instruction
+doctype declaration
+schema definition
+wsdl operation
+soap envelope
+rest endpoint
+graphql query
+graphql mutation
+graphql subscription
+webhook url
+callback url
+redirect url
+deep link
+universal link
+app scheme
+intent uri
+magnet link
+torrent hash
+data uri
+blob url
+websocket url
+mqtt topic
+amqp exchange
+kafka topic
+rabbitmq queue
+redis key
+memcached key
+elasticsearch index
+mongodb collection
+postgres schema
+mysql database
+sqlite filename
+connection string
+dsn
+jdbc url
+odbc connection
