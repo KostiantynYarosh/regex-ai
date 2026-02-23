@@ -56,6 +56,11 @@ class Match(BaseModel):
     start: int
     end: int
 
+class FeedbackRequest(BaseModel):
+    description: str
+    regex: str
+    flag: str 
+
 class ValidateResponse(BaseModel):
     valid: bool
     matches: list[Match]
@@ -180,10 +185,43 @@ async def validate(req: ValidateRequest, request: Request):
     match_objects = [Match(**m) for m in matches] if valid else []
     return ValidateResponse(valid=valid, matches=match_objects, error=error)
 
+@app.post("/api/feedback")
+@limiter.limit("30/minute")
+async def feedback(req: FeedbackRequest, request: Request):
+    from datetime import datetime
+    import json
+    import os
+    
+    feedback_file = Path(__file__).parent / "data" / "feedback.json"
+    feedback_file.parent.mkdir(parents=True, exist_ok=True)
+    
+    entry = {
+        "description": req.description,
+        "regex": req.regex,
+        "flag": req.flag,
+        "timestamp": int(datetime.now().timestamp())
+    }
+    
+    # Read existing data if it exists
+    data = []
+    if feedback_file.exists():
+        try:
+            with open(feedback_file, "r", encoding="utf-8") as f:
+                data = json.load(f)
+        except json.JSONDecodeError:
+            pass # Start fresh if file is corrupted
+
+    data.append(entry)
+    
+    with open(feedback_file, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+        
+    return {"status": "ok"}
+
 @app.get("/api/health")
 @limiter.limit("60/minute")
 async def health(request: Request):
-    return {"status": "ok", "version": "1.3.0", "endpoints": ["/api/generate", "/api/validate", "/api/tokenize"]}
+    return {"status": "ok", "version": "1.3.0", "endpoints": ["/api/generate", "/api/validate", "/api/tokenize", "/api/feedback"]}
 
 def main():
     import uvicorn

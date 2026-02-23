@@ -138,6 +138,7 @@ def build_all(data_root: str):
     data_path = Path(data_root)
     datasets_dir = data_path / "datasets"
     processed_dir = data_path / "processed"
+    feedback_file = data_path / "feedback.json"
         
     all_pairs = []
     stats = {}
@@ -176,7 +177,37 @@ def build_all(data_root: str):
         if reasons:
             for reason, count in reasons.items():
                 print(f"     Filtered: {count} ({reason})")
-    
+                
+    if feedback_file.exists():
+        print("\n  Processing Feedback data...")
+        try:
+            with open(feedback_file, 'r', encoding='utf-8') as f:
+                feedback_data = json.load(f)
+            
+            good_pairs = [(item["description"], item["regex"]) for item in feedback_data if item.get("flag") == "good"]
+            if good_pairs:
+                kept = []
+                reasons = {}
+                for desc, regex in good_pairs:
+                    ok, reason = filter_pair(desc, regex)
+                    if ok:
+                        kept.append((desc, regex))
+                    else:
+                        reasons[reason] = reasons.get(reason, 0) + 1
+                
+                stats["feedback"] = {"status": "ok", "raw": len(good_pairs), "kept": len(kept)}
+                all_pairs.extend(kept)
+                print(f"     Raw: {len(good_pairs)} → Kept: {len(kept)}")
+                if reasons:
+                    for reason, count in reasons.items():
+                        print(f"     Filtered: {count} ({reason})")
+            else:
+                print("     No 'good' feedback found")
+                stats["feedback"] = {"status": "empty", "raw": 0, "kept": 0}
+        except Exception as e:
+            print(f"  Warning: Error reading {feedback_file.name}: {e}")
+            stats["feedback"] = {"status": "error", "raw": 0, "kept": 0}
+            
     seen_regex = set()
     unique_pairs = []
     for desc, regex in all_pairs:

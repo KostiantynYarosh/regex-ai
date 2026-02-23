@@ -1,0 +1,20 @@
+[
+  {
+    "description": "find word \"hello\"",
+    "regex": "\\bhello\\b",
+    "flag": "good",
+    "timestamp": 1771808284
+  },
+  {
+    "description": "testik3",
+    "regex": "^ [\\w.-]+/[\\w.-]+$",
+    "flag": "bad",
+    "timestamp": 1771808290
+  },
+  {
+    "description": "validate yes or no",
+    "regex": "(yes|no)",
+    "flag": "good",
+    "timestamp": 1771808415
+  }
+]
